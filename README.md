@@ -1,29 +1,3 @@
-# webtecpr
+# D&D Arbenteuer Curse of Strahd auf deutsch übersetzt
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Dieses Projekt enthält eine mit vue.js gebaute Website, die das Abenteuer Curse of Strahd auf deutsch übersetzt enthält. Die Website ist rodimentär und natürlich nicht perfekt, aber ich übe damit gleichzeitig HTML, CSS und Javaskript mit vue.js.
