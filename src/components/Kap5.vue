@@ -69,7 +69,7 @@
           Die unbefestigte Straße endet an einer Reihe robuster Eisentore, hinter denen ein Paar schattenhafte Figuren stehen. In den Boden gepflanzt flankieren ein halbes Dutzend Pfähle die Straße vor den Toren, auf denen Wolfsköpfe aufgespießt sind.<br>
         </div><br>
         Eine 15 Fuß hohe Mauer umschließt die Stadt, deren vertikale Stämme mit dicken Seilen und Mörtel zusammengehalten werden. Die Spitze jedes Stammes ist spitz geschliffen. Ein hölzernes Gerüst umschließt die Innenseite der Palisade in einer Höhe von zwölf Fuß über dem Boden, so dass die Wachen über die Mauer blicken können.<br><br>
-        <img src="../assets/013.jpg" />
+        <img id="bcos05-00" src="../assets/013.jpg" />
         <p class="bunter">Karte 5.1: Vallaki (Bereich N)</p>
         <br>
         <h3>Stadttore</h3>
@@ -436,6 +436,12 @@ td {
   padding-right: 5px;
   padding-left: 0px;
   border: 0px;
+}
+
+#bcos05-00 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #bcos05-01 {
