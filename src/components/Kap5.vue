@@ -333,12 +333,54 @@
 
         <h3 id="2_5">N5. Arasek-Lagerplatz</h3>
         <hr />
-
-
+        <div class="flavor">Dieser große Lagerplatz hat mehrere verschlossene Schuppen entlang seiner Ränder und grenzt an ein geräumiges Lagerhaus. Auf einem Holzschild über dem Eingangstor steht "Arasek Lagerplatz".<br><br>
+        Am südlichen Ende des Lagerplatzes parkt ein robuster Karnevalswagen, dessen bunte Farbe abblättert. An den Seiten des Wagens sind die Worte "Rictavios Karneval der Wunder" zu lesen. Ein schweres Vorhängeschloss sichert die Hintertür.</div><br>
+        Der Lagerplatz ist ein Gemischtwarenlager und eine Einrichtung, in der Lagerschuppen gemietet werden können. Er ist im Besitz eines Ehepaares mittleren Alters, Gunther und Yelena Arasek (LG männliche und weibliche Bürgerliche). Sie verkaufen Gegenstände aus der Tabelle "Abenteurerausrüstung" im Spielerhandbuch, die einen Preis von 25 gp oder weniger haben, jedoch zum fünffachen Preis.<br><br>
+        <p class="bold">Rictavios Karnevalswagen</p><br>
+        Der bunte Halbelfenbarde Rictavio (siehe Bereich N2 und Anhang D) bezahlte Gunther und Yelena eine großzügige Menge Gold, damit sie seinen Karnevalswagen bewachen, ohne Fragen zu stellen. Wenn die Figuren sich dem Wagen nähern, lesen Sie:<br><br>
+        <div class="flavor">Der Wagen wackelt plötzlich, als ob sich etwas Großes gegen die Innenwand geworfen hätte. Sie hören das Knacken von Holz, das Schaben von Metall und das Knurren von etwas Unmenschlichem. Bei genauerem Hinsehen sieht man, dass die Seiten des Waggons mit trockenem Blut bespritzt sind. Außerdem sehen Sie eine Inschrift auf dem Türrahmen des Wagens, die lautet: "Ich bringe dich vom Schatten ins Licht!"</div><br>
+        Rictavio trägt den Schlüssel für die Wagentür bei sich. Das Schloss kann geknackt werden, ist aber mit einer Giftnadelfalle versehen (siehe "Beispielfallen" in Kapitel 5, "Abenteuerumgebungen", des Dungeon Master's Guide).<br><br>
+        Im Inneren des Wagens befindet sich ein Säbelzahntiger mit 84 Trefferpunkten. Er ist mit einer speziell angepassten Halb-Platte (AC 17) bekleidet und wurde für die Jagd auf die bösen Vistani ausgebildet. Der Tiger erkennt Vistani am Geruch und, in geringerem Maße, an der ausgefallenen Kleidung, die sie tragen. Dieser Tiger hat einen Challenge-Wert von 3 (700 XP).<br><br>
+        Der Wagen enthält auch die zerfetzten Überreste einer Puppe. Ein Charakter, der eine erfolgreiche DC 10 Intelligence (Investigation) Check durchführt, entdeckt, dass die Puppe einst eine bunt gekleidete Vistani-Puppe war. In ihre zerfetzte Hose ist ein Slogan eingenäht: "Kein Spaß, kein Blinsky!"<br><br>
+        Rictavio ist noch nicht bereit, den Tiger auf die Vistani loszulassen. Er füttert ihn, indem er Wolfssteaks in eine 1-Quadratfuß große Luke im Wagendach fallen lässt. Ein Charakter, der auf den Wagen klettert, kann die Luke entdecken, ohne eine Ability Check durchführen zu müssen.<br><br>
+        Wenn der Tiger freigelassen wird, beginnt er, durch die Straßen zu pirschen, bis sein scharfer Geruchssinn entweder Rictavio (Gebiet N2) oder Piccolo (Gebiet N7) ausfindig macht. Der Tiger greift niemanden an, der kein Vistana ist, außer zur Selbstverteidigung. Er greift Vistani auf Sicht an. Rictavio kann den Tiger dazu bringen, seinen Angriff abzubrechen und ihn zurück in den Wagen zu locken.<br><br>
         <h3 id="2_6">N6. Laden des Sargmachers</h3>
         <hr />
-
-
+        <div class="flavor">Dieser wenig einladende Laden ist zwei Stockwerke hoch und hat über der Eingangstür ein Schild in Form eines Sarges. Alle Fensterläden sind fest verschlossen, und eine tödliche Stille umgibt das Geschäft.</div><br>
+        Henrik van der Voort (LE männlicher menschlicher Bürgerlicher) ist ein mittelmäßiger Zimmermann und ein unruhiger, einsamer Mann. Er profitiert vom Tod anderer, und niemand wünscht sich seine Gesellschaft, weil sein Handwerk so grauenhaft ist. In einer Nacht vor einigen Monaten besuchte Strahd Henrik in Gestalt eines imposanten, gut gekleideten Adligen namens Vasili von Holtz und versprach dem Sargmacher "gute Geschäfte" als Gegenleistung für seine Hilfe. Seitdem ist Henriks Werkstatt zum Versteck eines Rudels von Vampirlaichen geworden - ehemalige Abenteurer, die von Strahd verwandelt wurden. Diese Vampire halten sich vorerst bedeckt.<br><br>
+        <table>
+          <td class="text">
+            Die Vampire planen, die Kirche von St. Andral anzugreifen (siehe "St. Andral's Fest) im Abschnitt "Besondere Ereignisse" am Ende dieses Kapitels. Als Henrik von den unter der Kirche vergrabenen heiligen Gebeinen erfuhr, befahl ihm die Vampirbrut, die Knochen zu stehlen, wofür Henrik den Totengräber Milivoj (siehe Bereich N1) bezahlte.<br><br>
+            Jedes Fenster von Henriks Laden ist ein Gitterwerk aus Eisen, das mit Quadraten aus Mattglas versehen und von innen verschlossen ist. Die Außentüren des Ladens sind von innen verriegelt. Wenn die Figuren an eine von ihnen klopfen, ruft Henrik: "Wir haben geschlossen! Geht weg!", ohne die Tür zu öffnen. Wenn die Figuren Henrik beschuldigen, die Knochen von St. Andral gestohlen zu haben, ruft er erneut: "Geht weg! Geht weg! Lasst mich in Ruhe!"<br><br>
+            Wenn die Figuren in den Laden einbrechen, leistet Henrik keinen Widerstand. Er sagt ihnen, wo sie die Knochen (im Schrank im oberen Schlafzimmer, Bereich N6e) und das Vampirnest (im Holzlager im oberen Stockwerk, Bereich N6f) finden.<br><br>
+          </td>
+          <td class="text">
+            <img id="bcos05-14" src="../assets/cos05-14.png" />
+          </td>
+        </table><br>
+        Wenn die Charaktere den Diebstahl der Knochen dem Bürgermeister melden, entsendet Baron Vallakovich vier Wachen, um Henrik festzunehmen und die Knochen zu bergen. Wenn die Wachen bei Tageslicht auftauchen, stellt Henrik sich und die Knochen kampflos und behauptet, die Vampire hätten ihn gezwungen, die Knochen zu stehlen. Wenn die Wachen nachts auftauchen, stellt Henrik sich selbst und sagt den Wachen, wo die Knochen versteckt sind, aber er wird die Knochen aus Angst, von den Vampiren getötet zu werden, nicht selbst zurückholen.<br><br>
+        <img id="bcenter" src="../assets/cos05-13.png" />
+        <p class="bunter">Karte 5.5: Sargmacherei (Gebiet N6)</p><br>
+        <p class="bold">N6a. Sarg-Lagerung</p><br>
+        <div class="flavor">Auf dem Boden dieses muffigen, L-förmigen Raumes sind dreizehn Holzsärge willkürlich angeordnet.</div><br>
+        Henrik lagert und stellt die von ihm angefertigten Särge in diesem Raum aus. Alle Särge sind leer.<br><br>
+        <p class="bold">N6b. Trödelkammer</p><br>
+        <div class="flavor">In einer Ecke dieses Raumes steht ein Tisch mit vier Stühlen, direkt darüber hängt eine Laterne an einer Kette. Zwei schöne Vitrinen stehen an der Ostwand.</div><br>
+        Die Vitrinen sind voll mit wertlosen Gegenständen, die Henrik im Laufe der Jahre gesammelt hat.<br><br>
+        <p class="bold">N6c. Werkstatt</p><br>
+        <div class="flavor">Diese Werkstatt enthält alles, was ein Schreiner für die Herstellung von Särgen und Möbeln benötigt. Drei stabile Arbeitstische erstrecken sich über die Länge der Westwand.</div><br>
+        Henrik baut Särge und bewahrt in diesem Raum seine Schreinerwerkzeuge auf.<br><br>
+        <p class="bold">N6d. Küche</p><br>
+        <div class="flavor">Diese Küche enthält einen quadratischen Tisch, umgeben von Stühlen und Regalen mit Proviant.</div><br>
+        Henrik bereitet hier seine Mahlzeiten vor.<br><br>
+        <p class="bold">N6e. Henriks Schlafzimmer</p><br>
+        <div class="flavor">In diesem bescheidenen Schlafgemach befinden sich ein Kinderbett und mehrere gut gemachte Möbelstücke, darunter ein Tisch, ein gepolsterter Stuhl, ein Bücherregal und ein Kleiderschrank.</div><br>
+        Henrik schläft hier, nachts und bis weit in den Morgen hinein. Das Bücherregal enthält eine Handvoll Märchenbücher und Schreinerhandbücher, die von früheren Generationen überliefert wurden.<br><br>
+        <span class="bold">Schatz.</span> Der Schrank in der südöstlichen Ecke hat in seinem Sockel ein Geheimfach, dessen Auffinden eine erfolgreiche DC 15 Wisdom-(Perception) Check erfordert. Im Inneren des Fachs befinden sich zwei Säcke - ein großer, der die Gebeine von St. Andral enthält, und ein kleiner, der 30 sp und 12 ep enthält. Alle Münzen tragen das profilierte Antlitz von Strahd von Zarovich.<br><br>
+        <p class="bold">N6f. Vampirnest</p><br>
+        <div class="flavor">Dieser große, zugige Raum ist von Spinnweben durchzogen und nimmt den größten Teil des Obergeschosses ein. Stapel von Holzbrettern liegen inmitten mehrerer Kisten mit der Aufschrift "SCHROTT".</div><br>
+        Die beiden südlichsten Kisten enthalten alten Schrott, den Henrik im Laufe der Jahre angesammelt hat. Die sechs Kisten im nördlichen Teil des Raumes sind mit Erde gefüllt und dienen als Ruhestätte für die sechs Vampirbrut, die sich hier versteckt halten. Wenn die Charaktere eine der besetzten Kisten öffnen, brechen alle Vampirbrut hervor und greifen an.<br><br>
+        <span class="bold">Teleportationsziel.</span> Charaktere, die sich aus dem Gebiet K78 in Schloss Ravenloft an diesen Ort teleportieren, kommen an dem auf der Karte mit T gekennzeichneten Punkt an.<br><br>
         <h3 id="2_7">N7. Blinsky Spielzeuge</h3>
         <hr />
 
@@ -354,51 +396,48 @@
       </div>
       <h2 id="3">Besondere Ereignisse</h2>
       <hr />
-      <div></div>
+      <div>
+        Jedes der folgenden Ereignisse kann eintreten, während sich die Charaktere in Vallaki aufhalten.<br><br>
+        <h3>Fest der brennenden Sonne</h3>
+        <hr />
+        Das Fest der brennenden Sonne findet drei Tage nach der ersten Ankunft der Figuren in Vallaki statt. Du kannst das Fest verzögern, wenn die Charaktere anderweitig aufgehalten oder gezeichnet werden, oder du kannst den Zeitplan vorziehen, wenn die Charaktere in Eile zu sein scheinen.<br><br>
+        <div class="flavor">Unter bedrohlichem Himmel stapft eine Parade unglücklicher, als Blumen verkleideter Kinder durch die schlammigen Straßen und weist einer Gruppe traurig aussehender Männer und Frauen den Weg, die einen zehn Fuß dicken Flechtball tragen. Der Bürgermeister und seine lächelnde Frau, die einen traurigen Strauß verwelkender Blumen hält, folgen der Prozession zu Pferd. Während die müden Zuschauer von ihren Hockern aus zusehen, wird der Ball auf den Stadtplatz getragen. Dort wird er hochgezogen und an ein fünfzehn Fuß hohes Holzgerüst gehängt, und die Stadtbewohner bespritzen ihn abwechselnd mit Öl. Bevor die Korbsonne in Flammen aufgehen kann, reißt der Himmel in einem plötzlichen Regenschauer auf. "Alles wird gut", ruft der Bürgermeister, schwingt eine stotternde Fackel und marschiert trotzig durch den Regen auf die Korbkugel zu, nur damit seine Fackel erlischt, als er sie in die Kugel schiebt.<br><br>
+        Aus der Menge ertönt ein einzigartiges Lachen, das sowohl den feurigen Blick des Bürgermeisters als auch das Keuchen der Stadtbewohner auf sich zieht.</div><br>
+        Das Lachen kommt von Lars Kjurls (LG-Menschgarde), einem Mitglied der Stadtmiliz. Die anderen Wachen sind entsetzt über Lars' Ausbruch zum falschen Zeitpunkt. Der Bürgermeister lässt Lars sofort wegen "Bosheit" verhaften. Wenn die Figuren nicht eingreifen, wird Lars an den Knöcheln und Handgelenken gefesselt und dann zur "Belustigung" aller hinter das Pferd des Bürgermeisters geschleppt. Der Bürgermeister reitet das Pferd selbst.<br><br>
+        <p class="bold">Entwicklung</p><br>
+        Wenn die Charaktere den Bürgermeister in irgendeiner Weise herausfordern, befiehlt dieser, sie aus Vallaki zu verbannen. Wenn sie protestieren, befiehlt er den Wachen, sie zu verhaften, ihnen ihre Waffen zu entziehen und sie mit dem Schwert aus Vallaki zu vertreiben.<br><br>
+        Wenn die Charaktere ihre Waffen verlieren, stehlen die Wächter der Feder (siehe Bereich N2) schließlich die Waffen zurück und geben sie den Charakteren zurück.<br><br>
+        Wenn die Wachen ihrer Pflicht nicht nachkommen können, zieht sich der Bürgermeister in sein Herrenhaus zurück, und die Stadtbewohner fliehen in ihre Häuser, so dass die Charaktere freie Hand in der Stadt haben.<br><br>
+        <h3>Tiger, Tiger</h3>
+        <hr />
+        Karl und Nikolai Wachter (siehe Gebiete N2 und N4) sind junge, törichte Männer aus einer stolzen Adelsfamilie. Die betrunkenen Brüder schleichen sich in Araseks Lagerhof (Bereich N5), während alle anderen dem Fest auf dem Stadtplatz beiwohnen. Bei einer Wette schaukelt einer von ihnen den Wagen. Der darin eingesperrte Säbelzahntiger wird wütend und schlägt durch die Waggontür. Die Charaktere und alle anderen in der Stadt hören die Schreie der jungen Männer, als der Tiger entkommt. Der Tiger flieht vom Viehhof, ohne den Wachters etwas anzutun, und beginnt, durch die Straßen zu streifen, auf der Suche nach einem Ausweg. Berichte über einen Tiger, der frei in den Straßen umherläuft, ruinieren das Fest und lassen die Stadtbewohner nach Hause eilen.<br><br>
+        Der Tiger mit Säbelzähnen fügt niemandem Schaden zu, bis er Schaden nimmt, woraufhin er die vermeintliche Schadensquelle angreift. Wenn er noch am Leben ist, versammelt Izek Strazni sechs Stadtwachen und jagt das Tier mit der Absicht, es zu töten. In der Zwischenzeit tut Rictavio sein Bestes, um die Bestie zurück auf seinen Wagen zu locken, während er den Bürgern versichert, dass sie keinen Schaden erleiden werden.<br><br>
+        <p class="bold">Entwicklung</p><br>
+        Wenn er noch an der Macht ist, führt der Bürgermeister eine Untersuchung durch, um herauszufinden, wo der Tiger herkam. Wachen und örtliche Zeugen werden befragt. Die Wachter-Jungs täuschen ihre Unschuld vor und beharren darauf, auf dem Fest gewesen zu sein, aber Gunther und Yelena Arasek (Gebiet N5) geben zu, "böses Knurren" und Kratzgeräusche aus dem Inneren des Karnevalswagens gehört zu haben, der auf ihrem Lagerplatz geparkt war. Auf Druck geben die Araseks zu, gesehen zu haben, wie der "seltsame Besitzer" des Wagens routinemäßig durch eine Luke im Dach Essen in den Wagen fallen ließ. Sie gestehen auch, dass der Halbelf sie für ihr Schweigen bezahlt hat.<br><br>
+        Nachdem der Bürgermeister erfährt, dass der Tiger Rictavio gehört, befiehlt er seinen Wachen, den mysteriösen Barden zu verhaften. Wenn Rictavio glaubt, dass die Charaktere ihm helfen können, bittet er sie, den Bürgermeister und die Wachen abzulenken, während er sein Pferd, seinen Wagen und den Tiger (in dieser Reihenfolge) versammelt. Wenn die Figuren Rictavio fragen, wohin er zu gehen gedenkt, erzählt er ihnen von einem alten Turm im Westen, in dem er sich versteckt halten kann (siehe Kapitel 11, "Van Richtens Turm").<br><br>
+        <h3>Wunsch von Lady Wachter</h3>
+        <hr />
+        Ernst Larnak (siehe Bereich N4) beginnt mit der Beschattung der Charaktere. Charaktere, die einen passiven Wisdom (Perception)-Wert von 14 oder höher haben, bemerken ihn dabei. Wenn sie ihn damit konfrontieren, behauptet er, dass er ein wachsames Auge auf alle Fremden hat, obwohl er den Namen seines Arbeitgebers nicht erwähnt. Wenn die Figuren ihn bedrohen, zieht er sich zurück und erstattet Lady Wachter Bericht, nachdem er glaubt, dass er nicht beobachtet oder verfolgt wird.<br><br>
+        Lady Wachter ist auf der Suche nach mächtigen Verbündeten, die ihr helfen, den Bürgermeister zu vertreiben. Wenn Ernst ihr sagt, dass die Figuren seiner Meinung nach geeignet sind, lässt Lady Wachter Ernst oder ihre Söhne die Figuren zu einem privaten Abendessen im Wachterhaus einladen. Während des Essens stellt Lady Wachter fest, ob die Charaktere die Fähigkeit und den Willen haben, den Baron zu vernichten.<br><br>
+        Lehnen die Charaktere ihre Einladung ab oder erklären sie, Feinde Strahds zu sein, bezeichnet Lady Wachter sie als ihre Feinde und macht sich daran, sie zu vernichten, ohne sich selbst zu belasten.<br><br>
+        <p class="bold">Entwicklung</p><br>
+        Sobald sie feststellt, dass die Charaktere ihre Feinde sind, übergibt Lady Wachter Ernst einen Beutel mit 100 gp (aus dem Gebiet N4q) und weist ihn an, ihn im Lager der Vistani außerhalb der Stadt (Gebiet N9) abzuliefern, zusammen mit einem Brief von ihr, in dem sie die Vistani bittet, die Charaktere zu entsorgen, sobald sie die Stadt verlassen haben. Die Vistani verbrennen den Brief, nachdem sie ihn gelesen haben, wie von Lady Wachter verlangt.<br><br>
+        Wenn die Charaktere Arabelle gerettet haben (siehe Kapitel 2, Gebiet L), geben die Vistani das Gold von Lady Wachter an Ernst zurück und tun nichts.<br><br>
+        Andernfalls beobachtet ein Vistana-Bandit die Straße östlich von Vallaki und meldet sich im Lager zurück, wenn die Charaktere beim Verlassen der Stadt gesichtet werden. Die Vistani, die besorgt sind, dass die Charaktere ihnen mehr als gewachsen sein könnten, schicken einen Emissär zu Pferd, um vor den Charakteren zu reiten und Strahd zu informieren. Wenn Arrigal noch am Leben ist, macht er den Ritt selbst. Andernfalls handelt es sich bei dem Reiter um einen jungen Vistana-Banditen namens Alexej (siehe Gebiet N9c).<br><br>
+        <h3>St. Andral-Festmahl</h3>
+        <hr />
+        Die Charaktere können dieses besondere Ereignis verhindern, indem sie die Gebeine von St. Andral in die Kirche zurückbringen (Gebiet N1) oder indem sie die Vampirbrut zerstören, die sich in der Werkstatt des Sargherstellers versteckt (Gebiet N6). Wenn die Charaktere drei Tage oder länger in Vallaki bleiben und weder die Knochen zurückholen noch die Vampirbrut zerstören, besucht Strahd am folgenden Abend die Sargmacherei und inszeniert einen Angriff auf die Kirche.<br><br>
+        Die Vampirbrut beginnt noch in dieser Nacht mit dem Angriff. Sie klammern sich an die Außenwände und das Dach der St. Andral-Kirche, während vier Fledermausschwärme durch den Glockenturm in die Kirche eindringen und die Gemeinde in Angst und Schrecken versetzen. Als die Stadtbewohner aus der Kirche fliehen, springen die Vampirlaiche herunter und greifen sie an.<br><br>
+        Während des Chaos betritt Strahd die Kirche in Fledermausform, kehrt dann in die Vampirform zurück und greift Vater Lucian an. Wenn die Charaktere nicht eingreifen, tötet Strahd den Priester, bevor er zur Burg Ravenloft zurückkehrt.<br><br>
+        Wenn Vater Lucian stirbt, begraben Einheimische seinen Leichnam auf dem Friedhof der Kirche, woraufhin er in der folgenden Nacht als Vampir aufersteht, der unter Strahds Kontrolle lebt. Wenn Rictavio (Gebiet N2) vom Tod des Priesters erfährt, schlägt er vor, dass die Figuren den Leichnam des Priesters verbrennen, um sicherzustellen, dass er nicht von den Toten aufersteht.<br><br>
+        <p class="bold">Entwicklung</p><br>
+        Der Angriff auf die Kirche St. Andral terrorisiert und demoralisiert die Stadt. Nach einigen Tagen verwandelt sich die Angst in fehlgeleitete Wut, da die Stadtbewohner dem Bürgermeister die Schuld geben. Baron Vallakovichs Mantra "Alles wird gut!" kann ihn nicht vor ihrem Zorn schützen. Wenn die Figuren nicht eingreifen, wird das Herrenhaus des Bürgermeisters in Brand gesteckt, und der Baron, seine Frau und sein Sohn werden auf den Stadtplatz geschleift, in den Pranger geworfen und zu Tode gesteinigt. Wenn er noch lebt, flieht Izek Strazni aus der Stadt, um einem ähnlichen Schicksal zu entgehen. Wo er sich versteckt, bleibt Ihnen überlassen, aber zu den wahrscheinlichen Orten gehören Old Bonegrinder (Kapitel 6), Argynvostholt (Kapitel 7) oder die Ruinen von Berez (Kapitel 10).<br><br>
+        Wenn die Figuren den Angriff auf die Kirche vereiteln und Pater Lucian beschützen, stattet Strahd Wachterhaus (Gebiet N4) einen Besuch ab und verfasst dort einen Brief, den er Lady Wachter bittet, den Charakteren zu überbringen. Der Brief ist in Strahd's Handschrift geschrieben und lädt die Figuren ein, nach Schloss Ravenloft zu kommen. Lady Wachter befiehlt ihrem Spion, Ernst Larnak, oder einem ihrer Söhne, den Figuren den Brief zu bringen. Wenn die Figuren ihn öffnen und lesen, zeigen sie den Spielern "Strahd's Einladung" in Anhang F. Wenn sich die Charaktere in Richtung Schloss begeben, haben sie keine bedrohlichen Zufallsbegegnungen auf dem Weg.<br><br>
+      </div>
       
       <a id="toTop" href="#">^</a>
       
     </div>
-
-    <h1>Einleitung</h1>
-    <hr />
-
-    <h2>Ausführen des Abenteuers</h2>
-    <hr />
-
-    <div class="box">
-      <h4>EIN KLASSISCHER NACHERZÄHLUNG</h4>
-    </div>
-
-    <div class="flavor"></div>
-
-    <h3>Story Übersicht</h3>
-    <hr />
-
-    <p class="bold">Bereiche nach Ebenen</p>
-    <br />
-
-    <table>
-      <tr>
-        <th>Durchschnittliches Level</th>
-        <th>Area</th>
-        <th>Kapitel</th>
-      </tr>
-      <tr>
-        <td>1 bis 3</td>
-        <td>Dorf von Barovia</td>
-        <td>3</td>
-      </tr>
-      <tr>
-        <td>4</td>
-        <td>Stadt Vallaki</td>
-        <td>5</td>
-      </tr>
-    </table>
-    <ul>
-      <li>Wenn es so aussieht, als hätten die Charaktere alles unter Kontrolle, kann man eine Windböe haben, die plötzlich ihre Fackeln ausbläst und sie in die Dunkelheit stürzt.</li>
-      <li>Bevor ein Monster erscheint, nimm dir einen Moment Zeit, um den Geruch zu beschreiben, der ihm vorausgeht, den unheimlichen Klang, den es macht, oder den seltsamen Schatten, den es wirft.</li>
-    </ul>
   </div>
 </template>
 
@@ -468,6 +507,11 @@ td {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+#bcos05-14 {
+  width: 1900px;
+  height: 410px;
 }
 
 #bcenter {
