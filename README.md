@@ -3,3 +3,9 @@
 Dieses Projekt enthält eine mit vue.js gebaute Website, die das Abenteuer Curse of Strahd auf deutsch übersetzt enthält. Die Website ist rodimentär und natürlich nicht perfekt, aber ich übe damit gleichzeitig HTML, CSS und Javaskript mit vue.js.
 
 Diese Version von Curse of Strahd ist ein Abenteuer für Dungeons & Dragons 5e.
+
+Um die Seite zu starten muss
+
+`npm run serve`
+
+im Hauptordner in die Konsole eingegeben werden. Dann kann die Seite im Localhost betrachtet werden.
